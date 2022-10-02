@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Inter:wght@700&family=Lato:ital@1&family=Montserrat:ital,wght@0,800;1,400;1,600&family=Noto+Sans+Mono:wght@400;500;600&family=Silkscreen:wght@700&family=Source+Sans+Pro:ital,wght@0,600;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Inter:wght@700&family=Lato:ital@1&family=Montserrat:ital,wght@0,800;1,400;1,600&family=Noto+Sans+Mono:wght@400;500;600&family=Source+Sans+Pro:ital,wght@0,600;1,600;1,700&display=swap');
+body
+{
+    background-color: rgb(225, 98, 232);
+}
+.Main_div 
+{
+    margin-top: 23px;
+    margin-right: 119px;
+    margin-left: 74px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: azure;
+    background-color: rgb(194, 107, 245);
+    font-size: 23px;
+    padding-bottom: 36px;
+    border-style: solid;
+    border-radius: 36px;
+    border-color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+
+.edu{
+    margin-top: 20px;
+    padding-left: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 26px;
+    
+}
+
+.edu11{
+    margin-top: -54px;
+    padding-left: 37pc;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 23px;
+    
+}
+.edu1{
+   margin-top: -54px;
+    padding-left: 36pc;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 23px;
+    
+}
+
+
+.edu2{
+    
+     padding-left: 35pc;
+     
+     font-size: 17px;
+     
+ }
+
+ .bord{
+    border-style:solid;
+    border-radius:48px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-color:  rgb(178, 102, 223);
+ }
+ .edu3{
+    padding-left: 33pc;
+     
+    font-size: 17px;
+ }
+ .flex{
+    display:flex;
+    flex-direction:row;
+
+ }
+
+ .edu4
+ {
+    margin-left: 160px;
+    font-size: 19px;
+    margin-top: -24px;
+ }
+
+ .flex1{
+    display:flex;
+    flex-direction:row;
+    margin-left: 28px;
+ }

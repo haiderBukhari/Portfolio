@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Lato:ital@1&family=Montserrat:ital,wght@0,800;1,400;1,600&family=Noto+Sans+Mono&family=Roboto+Mono&family=Source+Sans+Pro:ital,wght@0,600;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Inter:wght@700&family=Lato:ital@1&family=Montserrat:ital,wght@0,800;1,400;1,600&family=Noto+Sans+Mono&family=Roboto+Mono&family=Source+Sans+Pro:ital,wght@0,600;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Inter:wght@700&family=Lato:ital@1&family=Montserrat:ital,wght@0,800;1,400;1,600&family=Noto+Sans+Mono&family=Source+Sans+Pro:ital,wght@0,600;1,600;1,700&display=swap');
+
+body {
+    background-color: rgb(113, 189, 255);
+}
+
+.Main_div {
+    margin-top: 40px;
+    margin-right: 119px;
+    margin-left: 119px;
+    background-color: rgb(0, 19, 162);
+    padding-bottom: 58px;
+    border-style: solid;
+    border-radius: 16px;
+    border-color: rgb(0, 0, 0);
+
+}
+
+
+.Sub2_div {
+    transform: rotate(2deg);
+    margin-right: 7pc;
+    margin-top: -446px;
+    margin-left: 45pc;
+    border-style: solid;
+    border-radius: 16px;
+    border-color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+#Comp {
+    margin-top: 20px;
+    padding-left: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 31px;
+    transform: rotate(-2eg);
+}
+
+.flex {
+    transform: rotate(-2deg);
+    display: flex;
+    flex-direction: row;
+}
+
+#top {
+    margin-top: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.style {
+    padding-top: 6px;
+    padding-left: 6px;
+}
+
+.main {
+    padding-left: 70px;
+    color: white;
+    font-size: 20px;
+    padding-top: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+}
+
+.web {
+    padding-top: 20px;
+    padding-left: 15pc;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 24px;
+    color: white;
+
+}
+
+.text {
+    padding-top: 40px;
+    padding-left: 70px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+}
+
+.btn {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 230px;
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+    width: 73px;
+    height: 40px;
+    cursor: pointer;
+    border-color: rgb(255, 255, 255);
+      
+}
+
+.btn:hover{
+
+    width: 85px;
+    height:45px;
+    color: rgb(193, 0, 112);
+    background-color:rgb(0, 225, 255) ;
+    border-color:black;
+    border-radius: 15px;
+
+}
+
+footer
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
